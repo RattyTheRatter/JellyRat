@@ -39,7 +39,7 @@ ii run Builder.py
 
 iii optional obsfucate
 
-iv enjoy!
+iv enjoy! https://github.com/RattyTheRatter/JellyRat/blob/main/Ratting_Methods.txt for ratting methods
 
 # Disclaimer
 This is for educational purposes only. I am not responsible for any damage caused by this tool.
