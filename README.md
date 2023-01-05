@@ -34,8 +34,11 @@ Great New Look
 # How to build 
 
 i install python 3.11 https://www.python.org/ftp/python/3.11.1/python-3.11.1-amd64.exe
+
 ii run Builder.py
+
 iii optional obsfucate
+
 iv enjoy!
 
 # Disclaimer
