@@ -33,10 +33,10 @@ Great New Look
 
 # How to build 
 
-i run rat
-Change url to your server and change some other stuff to make it ✨unique✨.
-Build the mod.
-(Optional) Obfuscate the mod.
+i install python 3.11 https://www.python.org/ftp/python/3.11.1/python-3.11.1-amd64.exe
+ii run Builder.py
+iii optional obsfucate
+iv enjoy!
 
 # Disclaimer
 This is for educational purposes only. I am not responsible for any damage caused by this tool.
