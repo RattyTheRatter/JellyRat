@@ -28,18 +28,7 @@ Discord API for sending messages to webhook.
 
 Great New Look
 
-![image](https://user-images.githubusercontent.com/122023153/210775649-f0b78925-ba3f-4c50-b709-8c1cc49a0657.png)
-
-
-# How to build 
-
-i install python 3.11 https://www.python.org/ftp/python/3.11.1/python-3.11.1-amd64.exe
-
-ii run Builder.py
-
-iii optional obsfucate
-
-iv enjoy! https://github.com/RattyTheRatter/JellyRat/blob/main/Ratting_Methods.txt for ratting methods
+https://github.com/RattyTheRatter/JellyRat/blob/main/Ratting_Methods.txt for ratting methods
 
 # Disclaimer
 This is for educational purposes only. I am not responsible for any damage caused by this tool.
