@@ -36,7 +36,7 @@ Run https://github.com/RattyTheRatter/JellyRat/releases/tag/Release_1.3 and in t
 # screenshots
 ![ehejeeje](https://user-images.githubusercontent.com/122023153/213021060-db869487-c2de-4744-a234-2b0e2b0a1e39.png)
 
-![image](https://user-images.githubusercontent.com/122023153/213022036-12edf796-6a15-4f2d-b7ad-d2d629487eee.png)
+![image](https://user-images.githubusercontent.com/122023153/-12edf796-6a15-4f2d-b7ad-d2d629487eee.png)
 
 
 # Disclaimer
