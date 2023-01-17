@@ -27,7 +27,7 @@ Steals microsoft email and password and there refresh token
 
 Great New Look
 
-https://github.com/RattyTheRatter/JellyRat/blob/main/Ratting_Methods.txt for ratting methods
+https://raw.githubusercontent.com/RattyTheRatter/JellyRat/main/Ratting_Methods.txt for ratting methods
 
 
 
