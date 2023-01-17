@@ -8,6 +8,8 @@ Apparently switching the feather or essential files with yours grants you infini
 
 Additionally, it stores a formatted session string ready to use with Token login mods 
 
+Discord injection so when they reset there password you get the token again
+
 JavaScript backend server which:
 
 Checks if all fields in the JSON are present.
@@ -21,14 +23,13 @@ Can be easily configured to either use Discord Webhooks or MongoDB or both.
 
 Bypasses PizzaClient's SessionProtection.
 
-Express for the backend server.
-MongoDB for storing ratted users.
-Discord API for sending messages to webhook.
-
+Steals microsoft email and password and there refresh token
 
 Great New Look
 
 https://github.com/RattyTheRatter/JellyRat/blob/main/Ratting_Methods.txt for ratting methods
+
+
 
 # Disclaimer
 This is for educational purposes only. I am not responsible for any damage caused by this tool.
