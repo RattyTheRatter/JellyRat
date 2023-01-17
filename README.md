@@ -4,7 +4,7 @@ New Github cause old one got terminated
 # Features
 Grabs the username, uuid, token, ip, feather file, essentials file, lunar file and discord tokens of a target as a JSON.
 
-Apparently switching the feather or essential files with yours grants you infinite access to their account thanks to the refreshToken. (Unconfirmed, ask Annah#5795)
+Apparently switching the feather or essential files with yours grants you infinite access to their account thanks to the refreshToken.
 
 Additionally, it stores a formatted session string ready to use with Token login mods 
 
